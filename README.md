@@ -22,15 +22,14 @@
 - todos os dias treinando **SOLID** e **Object Calisthenics**.
 - sdds de comer acarajé 😔
 
-### informativo ℹ️
+### ℹ️ informativo
 - perdi o acesso ao e-mail do meu **github**, tive que criar esse.
 - github antigo: <a href="https://github.com/lailson-dev/"><img src="https://img.shields.io/badge/github-lailson--dev-inactive"></a>
 
 
 
 <h1 align="center">
-✨ você pode me encontrar nesses lugares abaixo 
-  
+✨ você pode me encontrar nesses lugares abaixo   
   <p align="center"><br/>
    <a href="https://www.linkedin.com/in/lailson-dev/">
     <img src="https://img.shields.io/badge/linkedin-lailson-blue">
