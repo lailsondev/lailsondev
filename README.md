@@ -6,16 +6,19 @@
 - Arquitetura MVC
 - Programação Orientada a Objetos (POO)
 - Gateway de Pagamentos
-- API Rest 
+- API Rest
 - HTML & CSS
-- JavaScript
-- Bootstrap
-- Laravel (Básico)
+- JavaScript (vanilla)
+- TailwindCSS
+- Laravel
 - VueJS (Básico)
+- Python
+- FastAPI
+- Flask
+- Django
 
 ### 🤔 um pouco de mim:
 - eu tenho 32 anos, baiano(nada de `e ai, meu rei`) morando em Araxá - MG, Brasil.
-- ~sou profissional de elétrica industrial e estou à procura de uma transição de carreira.~
 - sou estudante autodidata, apaixonado por PHP 🐘.
 - passo a maior parte do dia em frente ao computador.
 - atualmente apaixonado por boas práticas.
