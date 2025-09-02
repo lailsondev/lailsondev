@@ -14,7 +14,7 @@
 - VueJS (Básico)
 
 ### 🤔 um pouco de mim:
-- eu tenho 28 anos, baiano(nada de `e ai, meu rei`) morando em Araxá - MG, Brasil.
+- eu tenho 32 anos, baiano(nada de `e ai, meu rei`) morando em Araxá - MG, Brasil.
 - ~sou profissional de elétrica industrial e estou à procura de uma transição de carreira.~
 - sou estudante autodidata, apaixonado por PHP 🐘.
 - passo a maior parte do dia em frente ao computador.
@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/linkedin-lailson-blue">
   </a>
   
-  <a href="https://www.instagram.com/lailsondev/">
+  <a href="https://www.instagram.com/lails0nn/">
     <img src="https://img.shields.io/badge/instagram-lailson-orange">
   </a>
 </p>
