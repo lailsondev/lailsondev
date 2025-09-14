@@ -14,18 +14,26 @@ class LailsonConceicao extends Developer
         return [
             "position" => "Backend Developer",
             "technologies" => [
-                "PHP | Laravel | Lumen | Swoole",
-                "Python | FastAPI",
-                "JavaScript | VueJS | AlpineJS",
-                "HTML | CSS | TailwindCSS",
-                "Docker | Git",
-                "MySQL | PostgreSQL | MongoDB | DynamoDB",
-                "AWS SNS/SQS | RabbitMQ"
+                "PHP" => [
+                    "frameworks" => ["Laravel", "Lumen", "Swoole"],
+                ],
+                "Python" => [
+                    "frameworks" => ["FastAPI"],
+                ],
+                "JavaScript" => [
+                    "frameworks" => ["VueJS"],
+                    "libs" => ["AlpineJS"],
+                ],
+                "Frontend" => ["HTML", "CSS", "TailwindCSS"],
+                "Tools" => ["Docker", "Git"],
+                "Databases" => ["MySQL", "PostgreSQL", "MongoDB", "DynamoDB"],
+                "Messaging" => ["Amazon SQS", "Amazon SNS", "RabbitMQ"],
             ],
             "languages" => [
                 "Portuguese (Native)",
-                "English (Learning)"
-            ]
+                "English (In progress)",
+            ],
         ];
     }
 }
+```
