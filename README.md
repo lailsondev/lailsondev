@@ -7,7 +7,7 @@
 ```php
 <?php
 
-class LailsonConceicao
+class LailsonConceicao extends Developer
 {
     public function getProfile(): array
     {
